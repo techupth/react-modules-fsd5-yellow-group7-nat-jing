@@ -9,13 +9,13 @@ import {
 
 function App() {
   return (
-    <div>
+    <>
       <Header />
       <MainContent />
       <ProductSection />
       <FAQ />
       <Footer />
-    </div>
+    </>
   );
 }
 
